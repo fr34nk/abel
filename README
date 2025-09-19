@@ -1,0 +1,17 @@
+
+📘 Abel - Signaling potential offensive language threats
+
+
+The application is responsable to identify symbol patterns through:
+
+    ✅ Image Recognition
+    ✅ Sound recognition
+    ✅ Text Analysis
+
+    The main objetive is to sense  threats to individuals that may presence some type of abuse. 
+    
+    The application will be connected through a nework of individuals that will be notified through a group if the same "pattern" is reconigzed in different places, if the pattern is identified, it will alert the group
+
+    After receiving the alert, people that participate of the group will rate the alert, if an higher rating is voted, the alert will be repassed to local authorities periodically
+
+    An optional feature, is a channel where the local authorities will have an direct encrypted communication with the individuals that participate of the group
